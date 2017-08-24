@@ -5,7 +5,7 @@
 Title -: World Development Indicators - Urbanisation
 
 Code to convert CSV to JSON using JavaScript. D3 Implementation of the Json file.
-HTML files may run normally on mozilla firefox, but for best results run the html files by hoisting a server.
+HTML files may run normally on mozilla firefox, but for best results run the html files by hoisting a server. Json files will be created when you run the Urbanisation.js file.
 
 There are 5 html and 2 js buit inside
 HTML -:
